@@ -1,5 +1,5 @@
 # | Kawaii Blog Simulation
-This project was made from pure boredom, and trying to get back to doing projects. Mainly I was testing here posibilites of Visual Studio Code Ai assistant!
+This project was made from pure boredom, and trying to get back to doing projects. Mainly I was testing here posibilites of Visual Studio Code AI assistant!
 project works localy only, doesn't have any data-base connected to it, so all the changes are made in cookie files!
 
 # | Graphical represantation
